@@ -1,0 +1,45 @@
+.bg-primary{
+    background-color: #181D31;
+}
+
+.bg-secondary{
+    background-color: #678983;
+}
+
+.text-light{
+    color: #E6DDC4;
+}
+
+.text-secondary{
+    color:#F0E9D2;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.text-right{
+    text-align: right;
+}
+
+.width-100{
+    width: 100px;
+}
+
+.bg-info{
+    background-color: #CCD6A6;
+}
+
+.text-primary{
+    color: #FDFDBD;
+}
+
+.text-white{
+    color:#FFFBE9;
+}
+
+.contenedor{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
